@@ -10,7 +10,6 @@
 - 🎮 Currently working on **the second part of Adversarial Games for Expectimax**.
 - 🇦🇱 Originally from Albania, currently in France.
 
-> "AI is not about machines replacing humans, but empowering them."
 
 ## 💡 Skills & Technologies
 
