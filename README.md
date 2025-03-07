@@ -57,7 +57,7 @@
 📍 Caen, France  
 ✉️ eldisymeraj0@gmail.com  
 📞 07.83.88.39.26  
-[LinkedIn](https://linkedin.com/in/eldis-ymeraj) | [GitHub](https://github.com/elymeraj)  
+[LinkedIn](www.linkedin.com/in/eldis-ymeraj-2b5433226) | [GitHub](https://github.com/elymeraj)  
 
 ### **Education**
 - **Master 1 Artificial Intelligence & Human Factors** - Université de Caen Normandie (2024 - Present)
@@ -81,5 +81,5 @@
 ## 📫 Contact Me
 
 - ✉️ **Email**: [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)
-- 🔗 **LinkedIn**: [Eldis Ymeraj](https://linkedin.com/in/eldis-ymeraj)
+- 🔗 **LinkedIn**: [Eldis Ymeraj](www.linkedin.com/in/eldis-ymeraj-2b5433226)
 - 🐙 **GitHub**: [elymeraj](https://github.com/elymeraj)
