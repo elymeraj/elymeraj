@@ -7,6 +7,7 @@
 - 🏫 I’m currently studying **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**.
 - 🚀 Passionate about **AI for Games, Computer Vision & Reinforcement Learning**.
 - 🏆 Working on **Handball Tracking using YOLO & ByteTrack**.
+- 🎮 Currently working on **the second part of Adversarial Games for Expectimax**.
 - 🇦🇱 Originally from Albania, currently in France.
 
 > "AI is not about machines replacing humans, but empowering them."
@@ -14,7 +15,7 @@
 ## 💡 Skills & Technologies
 
 ### 🖥️ Programming Languages
-- **Python, Java, C, Prolog, OCaml**
+- **Python, Java, C, Prolog**
 
 ### 🤖 Machine Learning & AI
 - **Scikit-learn, TensorFlow, PyTorch, Keras**
@@ -53,7 +54,30 @@
 
 ## 📄 My CV
 
-You can find my full CV [here](https://github.com/elymeraj/elymeraj/raw/main/CV_ELDIS-YMERAJ_Alternnace.pdf).
+### **ELDIS YMERAJ**
+📍 Caen, France  
+✉️ eldisymeraj0@gmail.com  
+📞 07.83.88.39.26  
+[LinkedIn](https://linkedin.com/in/eldis-ymeraj) | [GitHub](https://github.com/elymeraj)  
+
+### **Education**
+- **Master 1 Artificial Intelligence & Human Factors** - Université de Caen Normandie (2024 - Present)
+- **Licence Informatique** - Université Clermont-Auvergne (2021 - 2024)
+
+### **Skills**
+- **Programming:** Python, Java, C, Prolog  
+- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, Reinforcement Learning  
+- **Computer Vision:** OpenCV, YOLO, ByteTrack  
+- **Databases & ETL:** MySQL, PostgreSQL, MongoDB, Apache Hop, Talend  
+- **NLP:** NLTK, SpaCy, FastText, WordNet  
+- **Multi-Agent Systems:** JADE  
+- **Ontologies & Knowledge Representation:** OWL, Protégé  
+- **Tools:** Git, Docker, Jupyter Notebook, Linux, Windows  
+
+### **Experience**
+- **Handball Tracking Project** - Deep learning for object detection and tracking  
+- **AI for Games** - Developing adversarial AI using MinMax & Expectimax  
+- **GraphQL & Docker Data Visualization** - Interactive sales analysis with GraphQL & D3.js  
 
 ## 📫 Contact Me
 
