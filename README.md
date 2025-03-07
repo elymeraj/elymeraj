@@ -1,12 +1,10 @@
 # 👋 Hey, I'm Eldis Ymeraj!
 
-🎓 **Master 1 AI & Human Factors** | 🤖 **Computer Vision & Machine Learning**
+🎓 **Master 1 AI & Human Factors** 
 
 ## 🔥 About Me
 
 - 🏫 I’m currently studying **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**.
-- 🎯 Aiming for **Master 2 MALIA (Machine Learning for AI)** at **Université Lumière Lyon 2**.
-- 💼 Looking for an **apprenticeship in Data Science / ML** for September 2025 in Lyon.
 - 🚀 Passionate about **AI for Games, Computer Vision & Reinforcement Learning**.
 - 🏆 Working on **Handball Tracking using YOLO & ByteTrack**.
 - 🇦🇱 Originally from Albania, currently in France.
