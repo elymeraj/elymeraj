@@ -1,57 +1,57 @@
-# 👋 Hey, I'm Eldis Ymeraj!
+# Hey, I'm Eldis Ymeraj!
 
-🎓 **Master 1 AI & Human Factors** 
+ **Master 1 AI & Human Factors** 
 
-## 🔥 About Me
+## About Me
 
-- 🏫 I’m currently studying **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**.
-- 🚀 Passionate about **AI for Games, Computer Vision & Reinforcement Learning**.
-- 🏆 Working on **Handball Tracking using YOLO & ByteTrack**.
-- 🎮 Currently working on **the second part of Adversarial Games for Expectimax**.
-- 🇦🇱 Originally from Albania, currently in France.
+-  I’m currently studying **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**.
+-  Passionate about **AI for Games, Computer Vision & Reinforcement Learning**.
+-  Working on **Handball Tracking using YOLO & ByteTrack**.
+-  Currently working on **the second part of Adversarial Games for Expectimax**.
+-  Originally from Albania, currently in France.
 
 
-## 💡 Skills & Technologies
+## Skills & Technologies
 
-### 🖥️ Programming Languages
+### Programming Languages
 - **Python, Java, C, Prolog**
 
-### 🤖 Machine Learning & AI
+### Machine Learning & AI
 - **Scikit-learn, TensorFlow, PyTorch, Keras**
 - **Reinforcement Learning, Probabilistic Graphical Models, Constraint Programming**
 
-### 🏆 Computer Vision
+### Computer Vision
 - **OpenCV, YOLO, ByteTrack**
 
-### 🗣️ Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 - **NLTK, SpaCy, FastText, WordNet**
 
-### 💾 Databases & ETL
+### Databases & ETL
 - **MySQL, PostgreSQL, MongoDB, Apache Hop, Talend**
 
-### 🏗️ Multi-Agent Systems
+### Multi-Agent Systems
 - **JADE**
 
-### 🔎 Ontologies & Knowledge Representation
+### Ontologies & Knowledge Representation
 - **OWL, Protégé**
 
-### 📊 Data Modeling & Analysis
+### Data Modeling & Analysis
 - **OLAP, MDX, Pandas, NumPy**
 
-### 🛠️ Tools & Environments
+### Tools & Environments
 - **Git, Docker, Jupyter Notebook, Linux, Windows**
 
-## 🚀 Projects
+## Projects
 
-- 🏐 **Handball Tracking** - Detection & tracking of players, ball, and field using deep learning.
-- 🎲 **AI for Games** - Developing MinMax & Expectimax-based AI for Dominos & Tic-Tac-Toe.
-- 📊 **Data Visualization with GraphQL & Docker** - Web app for interactive data analysis.
-- 📦 **ETL & OLAP Analysis** - Building a data warehouse and OLAP cube using Apache Hop.
-- 🧠 **NLP with WordNet & FastText** - Creating a semantic text rewriting model.
-- 🎬 **Movie Ontologies** - Semantic modeling of movie genres, actors, and directors.
-- 🚀 **A* Algorithm for Graph Optimization** - Pathfinding and heuristic optimization.
+-  **Handball Tracking** - Detection & tracking of players, ball, and field using deep learning.
+-  **AI for Games** - Developing MinMax & Expectimax-based AI for Dominos & Tic-Tac-Toe.
+-  **Data Visualization with GraphQL & Docker** - Web app for interactive data analysis.
+-  **ETL & OLAP Analysis** - Building a data warehouse and OLAP cube using Apache Hop.
+-  **NLP with WordNet & FastText** - Creating a semantic text rewriting model.
+-  **Movie Ontologies** - Semantic modeling of movie genres, actors, and directors.
+-  **A* Algorithm for Graph Optimization** - Pathfinding and heuristic optimization.
 
-## 📄 My CV
+##  My CV
 
 ### **ELDIS YMERAJ**
 📍 Caen, France  
@@ -78,8 +78,8 @@
 - **AI for Games** - Developing adversarial AI using MinMax & Expectimax  
 - **GraphQL & Docker Data Visualization** - Interactive sales analysis with GraphQL & D3.js  
 
-## 📫 Contact Me
+## Contact Me
 
-- ✉️ **Email**: [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)
-- 🔗 **LinkedIn**: [Eldis Ymeraj](www.linkedin.com/in/eldis-ymeraj-2b5433226)
-- 🐙 **GitHub**: [elymeraj](https://github.com/elymeraj)
+- ✉ **Email**: [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)
+-  **LinkedIn**: [Eldis Ymeraj](www.linkedin.com/in/eldis-ymeraj-2b5433226)
+-  **GitHub**: [elymeraj](https://github.com/elymeraj)
