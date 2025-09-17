@@ -1,85 +1,89 @@
-# Hey, I'm Eldis Ymeraj!
+## Curriculum Vitae - Eldis Ymeraj - EN
 
- **Master 1 AI & Human Factors** 
+**SKILLS**
 
-## About Me
+**Programming Languages:** Python, Java, C, C++, Prolog, SQL, HTML, CSS, JavaScript  
 
--  I’m currently studying **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**.
--  Passionate about **AI for Games, Computer Vision & Reinforcement Learning**.
--  Working on **Handball Tracking using YOLO & ByteTrack**.
--  Currently working on **the second part of Adversarial Games for Expectimax**.
--  Originally from Albania, currently in France.
+**Machine Learning & AI:** Scikit-learn, PyTorch, TensorFlow, Reinforcement Learning, Probabilistic Graphical Models, Constraint Programming, GMM, Clustering  
 
+**Computer Vision:** OpenCV, YOLO, ByteTrack  
 
-## Skills & Technologies
+**Natural Language Processing (NLP):** NLTK, SpaCy, FastText, WordNet  
 
-### Programming Languages
-- **Python, Java, C, Prolog**
+**Databases & ETL:** MySQL, PostgreSQL, MongoDB, SQLite, Apache Hop, Talend, OLAP, MDX  
 
-### Machine Learning & AI
-- **Scikit-learn, TensorFlow, PyTorch, Keras**
-- **Reinforcement Learning, Probabilistic Graphical Models, Constraint Programming**
+**Web & Visualization:** FastAPI, GraphQL, D3.js  
 
-### Computer Vision
-- **OpenCV, YOLO, ByteTrack**
+**Tools & Environments:** Git, Docker, Jupyter Notebook, Google Colab, Linux, Windows, LaTeX, UML, Office Pack  
 
-### Natural Language Processing (NLP)
-- **NLTK, SpaCy, FastText, WordNet**
+**Qualities:** Teamwork, Adaptability, Curiosity, Rigor, Autonomy, Proactivity  
 
-### Databases & ETL
-- **MySQL, PostgreSQL, MongoDB, Apache Hop, Talend**
+**Languages:**
+- **Albanian:** Native  
+- **French:** Bilingual  
+- **English:** B2  
 
-### Multi-Agent Systems
-- **JADE**
+**INTERESTS**
+- **Sport:** Basketball, Gym  
+- **Music:** Listening & Playing  
+- **Reading:** Tech & Scientific articles  
+- **Travel:** Discovering new cultures  
 
-### Ontologies & Knowledge Representation
-- **OWL, Protégé**
+---
 
-### Data Modeling & Analysis
-- **OLAP, MDX, Pandas, NumPy**
+## Contact
 
-### Tools & Environments
-- **Git, Docker, Jupyter Notebook, Linux, Windows**
+- 📫 How to reach me: [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/eldis-ymeraj-2b5433226) | [GitHub](https://github.com/elymeraj)  
 
-## Projects
+---
 
--  **Handball Tracking** - Detection & tracking of players, ball, and field using deep learning.
--  **AI for Games** - Developing MinMax & Expectimax-based AI for Dominos & Tic-Tac-Toe.
--  **Data Visualization with GraphQL & Docker** - Web app for interactive data analysis.
--  **ETL & OLAP Analysis** - Building a data warehouse and OLAP cube using Apache Hop.
--  **NLP with WordNet & FastText** - Creating a semantic text rewriting model.
--  **Movie Ontologies** - Semantic modeling of movie genres, actors, and directors.
--  **A* Algorithm for Graph Optimization** - Pathfinding and heuristic optimization.
+## Current Status
 
-##  My CV
+I am a Master’s student in **Artificial Intelligence & Human Factors** at **Université de Caen Normandie**, currently seeking a **4–6 month internship (from February 2026)** in **Data Science or Machine Learning** to apply my skills and gain solid professional experience.  
 
-### **ELDIS YMERAJ**
-📍 Caen, France  
-✉️ eldisymeraj0@gmail.com  
-📞 07.83.88.39.26  
-[LinkedIn](www.linkedin.com/in/eldis-ymeraj-2b5433226) | [GitHub](https://github.com/elymeraj)  
+---
 
-### **Education**
-- **Master 1 Artificial Intelligence & Human Factors** - Université de Caen Normandie (2024 - Present)
-- **Licence Informatique** - Université Clermont-Auvergne (2021 - 2024)
+## Curriculum Vitae - Eldis Ymeraj - FR
 
-### **Skills**
-- **Programming:** Python, Java, C, Prolog  
-- **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-learn, Reinforcement Learning  
-- **Computer Vision:** OpenCV, YOLO, ByteTrack  
-- **Databases & ETL:** MySQL, PostgreSQL, MongoDB, Apache Hop, Talend  
-- **NLP:** NLTK, SpaCy, FastText, WordNet  
-- **Multi-Agent Systems:** JADE  
-- **Ontologies & Knowledge Representation:** OWL, Protégé  
-- **Tools:** Git, Docker, Jupyter Notebook, Linux, Windows  
+**COMPÉTENCES**
 
-### **Experience**
-- **Handball Tracking Project** - Deep learning for object detection and tracking  
-- **AI for Games** - Developing adversarial AI using MinMax & Expectimax  
-- **GraphQL & Docker Data Visualization** - Interactive sales analysis with GraphQL & D3.js  
+**Langages Informatiques :** Python, Java, C, C++, Prolog, SQL, HTML, CSS, JavaScript  
 
-## Contact Me
+**Apprentissage Automatique (IA & Deep Learning) :** Scikit-learn, PyTorch, TensorFlow, Reinforcement Learning, Graphes Probabilistes, Constraint Programming, GMM, Clustering  
 
-- ✉ **Email**: [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)
--  **LinkedIn**: [Eldis Ymeraj](www.linkedin.com/in/eldis-ymeraj-2b5433226)
--  **GitHub**: [elymeraj](https://github.com/elymeraj)
+**Vision par Ordinateur :** OpenCV, YOLO, ByteTrack  
+
+**Traitement Automatique des Langues (TAL) :** NLTK, SpaCy, FastText, WordNet  
+
+**Bases de Données & ETL :** MySQL, PostgreSQL, MongoDB, SQLite, Apache Hop, Talend, OLAP, MDX  
+
+**Web & Visualisation :** FastAPI, GraphQL, D3.js  
+
+**Outils & Environnements :** Git, Docker, Jupyter Notebook, Google Colab, Linux, Windows, LaTeX, UML, Pack Office  
+
+**Qualités :** Travail d’équipe, Adaptabilité, Curiosité, Rigueur, Autonomie, Proactivité  
+
+**Langues :**
+- **Albanais :** Langue maternelle  
+- **Français :** Bilingue  
+- **Anglais :** B2  
+
+**CENTRES D’INTÉRÊT**  
+- **Sport :** Basketball, Musculation  
+- **Musique :** Écoute & pratique  
+- **Lecture :** Articles scientifiques/techniques  
+- **Voyages :** Découverte de nouvelles cultures  
+
+---
+
+## Contact
+
+- 📫 Comment me contacter : [eldisymeraj0@gmail.com](mailto:eldisymeraj0@gmail.com)  
+- 🌐 [LinkedIn](https://linkedin.com/in/eldis-ymeraj-2b5433226) | [GitHub](https://github.com/elymeraj)  
+
+---
+
+## Situation Actuelle
+
+Étudiant en Master 2 **Informatique – Intelligence Artificielle** à l’Université de Caen Normandie, je recherche un **stage de 4 à 6 mois (à partir de février 2026)** en **Data Science ou Machine Learning** afin de mettre en pratique mes compétences et d’acquérir une solide expérience professionnelle.  
